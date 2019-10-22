@@ -1,6 +1,6 @@
 # React Squish
 
-[![License: MIT](https://img.shields.io/github/license/ftonato/react-squish.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/ftonato/react-squish)](LICENSE)
 
 Just another boilerplate based create-react-app (everything that works with create-react-app works with us) with many useful things like:
 
